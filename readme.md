@@ -24,12 +24,6 @@ Este projeto é uma aplicação web simples para o cadastro e listagem de produt
 - CSS
 - JavaScript
 
-## Como Executar o Projeto
-
-1. Clone o repositório ou faça o download dos arquivos.
-
-2. Abra o arquivo `index.html` em um navegador web.
-
 ## Estrutura do Projeto
 ├── index.html
 ├── style.css
