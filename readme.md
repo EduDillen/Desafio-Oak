@@ -74,4 +74,4 @@ O `script.js` gerencia a lógica da aplicação:
 
 Feito com ❤️ por [Eduardo Dillenburg]
 
-Link do repositório do projeto: 
+Link do repositório do projeto: https://github.com/EduDillen/Desafio-Oak
